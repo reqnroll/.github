@@ -10,6 +10,8 @@ The prompts below are for guidance to help you describe your change in a way tha
 likely to make sense to other people when they are reviewing it. Still, it's just a guide, 
 so feel free to delete anything that doesn't feel appropriate, and add anything additional 
 that seems like it would provide useful context. 👏🏻
+
+You can delete these comment sections as you process them.
 -->
 
 ### 🤔 What's changed?
