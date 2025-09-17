@@ -13,3 +13,11 @@ Reqnroll works on all major operating systems (Windows, Linux, macOS), on all co
 * [Quickstart guide](https://go.reqnroll.net/quickstart)
 * [Reqnroll website](https://reqnroll.net/)
 * [Reqnroll documentation](https://docs.reqnroll.net/)
+
+## Sponsors
+
+* [Spec Solutions](https://www.specsolutions.eu/)
+* [Info Support](https://www.infosupport.com/)
+* [LambdaTest](https://www.lambdatest.com/)
+
+See all sponsors and information about sponsorship on the [Sponsorship page](https://reqnroll.net/sponsorship) of our website.
