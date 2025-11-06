@@ -8,6 +8,8 @@ Reqnroll enables writing executable specifications for BDD using [Gherkin](https
 
 Reqnroll works on all major operating systems (Windows, Linux, macOS), on all commonly used .NET implementations (including .NET Framework 4.6.2+, .NET 8.0 and .NET 9.0). For executing the automated scenarios, Reqnroll can use [MsTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest), [NUnit](https://nunit.org/), [xUnit](https://xunit.net/) or [TUnit](https://tunit.dev/). On Reqnroll projects you can work using Visual Studio 2022, Visual Studio Core and Rider, but you can also use Reqnroll without any IDE.
 
+Everyone interacting in these codebases and issue trackers is expected to follow the [Reqnroll Community Code of Conduct](https://github.com/reqnroll/.github/blob/main/CODE_OF_CONDUCT.md).
+
 ## Useful links
 
 * [Quickstart guide](https://go.reqnroll.net/quickstart)
