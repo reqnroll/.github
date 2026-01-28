@@ -20,6 +20,6 @@ Everyone interacting in these codebases and issue trackers is expected to follow
 
 * [Spec Solutions](https://www.specsolutions.eu/)
 * [Info Support](https://www.infosupport.com/)
-* [LambdaTest](https://www.lambdatest.com/)
+* [TestMu AI (formerly LambdaTest)](https://www.testmuai.com/)
 
 See all sponsors and information about sponsorship on the [Sponsorship page](https://reqnroll.net/sponsorship) of our website.
